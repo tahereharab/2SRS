@@ -1,1 +1,5 @@
-# 2SRS
+# 2SRS: A Two-Sided Recommender System to Connect Local Businesses to Bus Passengers
+
+Recommender systems are widely used to help customers find the most relevant and personalized products or services tailored to their preferences. However, traditional systems ignore the preferences of the other side of the market, e.g., "product suppliers" or "service providers", towards their customers. In this paper, we present 2SRS a Two-Sided Recommender System that recommends coupons, supplied by local businesses, to passerby while considering the preferences of both sides towards each other. For example, some passerby may only be interested in coffee-shops whereas certain businesses may only be interested in sending coupons to new customers only. Our experimental results show that 2SRS delivers higher satisfaction when considering both sides of the market compared to the baseline methods.
+
+Please cite our paper "2SRS: A Two-Sided Recommender System to Connect Local Businesses to Bus Passengers".
