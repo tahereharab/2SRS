@@ -1,0 +1,488 @@
+productionId,production_company,occupation,age_group,visit,age_care,occupation_care,visit_care
+0,Pixar Animation Studios,technician,51-60,repeat,0,0,1
+1,Eon Productions,doctor,31-40,repeat,0,0,0
+2,Miramax,healthcare,<=20,repeat,0,0,0
+3,Metro-Goldwyn-Mayer (MGM),healthcare,51-60,firstcomer,0,0,0
+4,Regency Enterprises,educator,<=20,repeat,0,0,0
+5,Universal Pictures,executive,51-60,firstcomer,0,0,0
+6,Metropolis Pictures,doctor,41-50,firstcomer,0,0,1
+7,Le Film d'Art,executive,<=20,repeat,0,0,0
+8,Sweetland Films,writer,31-40,firstcomer,0,1,0
+9,Hollywood Pictures,salesman,21-30,firstcomer,0,0,0
+10,Dimension Films,other,<=20,repeat,0,0,0
+11,Playhouse International Pictures,retired,41-50,repeat,0,0,0
+12,Walt Disney Pictures,none,31-40,firstcomer,0,0,0
+13,Cinema Corporation of America,salesman,31-40,repeat,0,0,0
+14,Navketan International Films,technician,31-40,firstcomer,0,1,0
+15,EMI Films,artist,21-30,repeat,0,0,0
+16,Warner Bros.,homemaker,51-60,repeat,0,0,0
+17,Robert et Raymond Hakim,librarian,21-30,firstcomer,0,1,0
+18,Columbia Pictures,other,31-40,firstcomer,0,0,0
+19,Alcor Films,executive,41-50,repeat,0,0,0
+20,Kino Link Company,healthcare,31-40,repeat,1,0,1
+21,Lightstorm Entertainment,student,41-50,repeat,0,1,0
+22,View Askew Productions,salesman,31-40,firstcomer,0,0,0
+23,Castle Rock Entertainment,educator,21-30,firstcomer,0,0,0
+24,Alliance Entertainment,entertainment,51-60,firstcomer,0,1,0
+25,Touchstone Pictures,entertainment,41-50,firstcomer,0,0,0
+26,Paramount Pictures,artist,51-60,firstcomer,0,0,0
+27,Lucasfilm,homemaker,51-60,repeat,0,0,0
+28,TriStar Pictures,writer,21-30,firstcomer,0,0,0
+29,British Broadcasting Corporation (BBC),lawyer,51-60,repeat,0,0,0
+30,Baltimore Pictures,executive,41-50,firstcomer,0,0,0
+31,Canal+,doctor,51-60,repeat,0,0,0
+32,Morgan Creek Entertainment,writer,41-50,firstcomer,0,0,1
+33,PolyGram Filmed Entertainment,writer,51-60,repeat,0,0,0
+34,Donner/Shuler-Donner Productions,other,31-40,firstcomer,0,0,0
+35,Twentieth Century Fox,librarian,21-30,repeat,1,0,0
+36,Renaissance Films,homemaker,<=20,repeat,1,1,0
+37,Mirage Enterprises,educator,<=20,repeat,0,0,0
+38,The Ladd Company,engineer,21-30,repeat,0,0,1
+39,Suburban Pictures,executive,31-40,repeat,0,0,0
+40,Hughes Entertainment,student,31-40,repeat,0,0,0
+41,Carolco Pictures,other,31-40,firstcomer,0,0,0
+42,Tig Productions,lawyer,41-50,firstcomer,1,0,0
+43,Walt Disney Productions,educator,<=20,firstcomer,0,0,0
+44,Silvermine Productions,homemaker,41-50,repeat,0,0,0
+45,MGM Family Entertainment,administrator,31-40,repeat,1,0,1
+46,J&M Entertainment,librarian,41-50,repeat,0,0,0
+47,Imagine Entertainment,executive,41-50,repeat,0,0,0
+48,ABC Productions,engineer,31-40,repeat,0,0,0
+49,Best Brains,artist,21-30,repeat,0,1,0
+50,Ivan Tors Productions,engineer,31-40,firstcomer,0,0,0
+51,Vestron Pictures,homemaker,31-40,firstcomer,0,1,1
+52,Dino De Laurentiis Company,homemaker,21-30,firstcomer,0,0,0
+53,CiBy 2000,lawyer,51-60,firstcomer,0,0,0
+54,Jurow-Shepherd,engineer,21-30,firstcomer,0,0,0
+55,Selznick International Pictures,technician,<=20,repeat,0,0,0
+56,RKO Radio Pictures,entertainment,21-30,firstcomer,0,0,0
+57,Rysher Entertainment,educator,41-50,firstcomer,0,0,0
+58,Touchwood Pacific Partners 1,none,21-30,firstcomer,0,0,0
+59,Williamson Submarine Film Corporation,technician,21-30,firstcomer,0,0,1
+60,Hachette Première,writer,<=20,repeat,0,0,0
+61,Doug Liman Productions,lawyer,31-40,firstcomer,0,0,0
+62,Jack Rollins & Charles H. Joffe Productions,salesman,41-50,repeat,0,0,0
+63,Great American Films Limited Partnership,marketing,41-50,firstcomer,0,0,0
+64,Live Entertainment,homemaker,21-30,repeat,0,0,0
+65,Hemdale,entertainment,<=20,repeat,0,0,0
+66,Gladden Entertainment,healthcare,31-40,firstcomer,0,1,0
+67,New Line Cinema,marketing,21-30,repeat,1,0,0
+68,Edward Small Productions,executive,21-30,firstcomer,0,0,0
+69,IPC Films,retired,51-60,firstcomer,0,0,0
+70,DD Productions,healthcare,31-40,repeat,0,0,0
+71,Python (Monty) Pictures,technician,31-40,repeat,1,0,0
+72,Constellation,librarian,31-40,firstcomer,0,0,0
+73,Republic Pictures (I),homemaker,41-50,repeat,0,0,0
+74,Orion-Nova Productions,entertainment,41-50,repeat,0,0,0
+75,Zoetrope,marketing,51-60,firstcomer,0,0,1
+76,Brandywine Productions,scientist,41-50,repeat,0,0,0
+77,Shamley Productions,artist,51-60,repeat,1,0,0
+78,Natant,educator,<=20,firstcomer,0,0,0
+79,AMLF,administrator,<=20,firstcomer,0,0,0
+80,Chartoff-Winkler Productions,engineer,41-50,repeat,0,1,0
+81,De Laurentiis Entertainment Group (DEG),scientist,41-50,firstcomer,0,0,0
+82,Akira Committee Company Ltd.,administrator,21-30,firstcomer,1,0,0
+83,Stanley Kramer Productions,homemaker,21-30,firstcomer,0,0,0
+84,Gruskoff/Venture Films,healthcare,31-40,firstcomer,0,0,0
+85,Spinal Tap Prod.,administrator,<=20,repeat,0,0,0
+86,Gordon Company,engineer,31-40,repeat,0,0,0
+87,Melville Productions,student,21-30,repeat,0,0,0
+88,Argus Film Produktie,salesman,31-40,repeat,1,1,1
+89,Digital Image Associates,student,31-40,firstcomer,0,0,0
+90,Epithète Films,retired,41-50,repeat,0,0,1
+91,Zanuck/Brown Productions,salesman,31-40,repeat,1,0,0
+92,Tim Burton Productions,student,51-60,repeat,0,1,0
+93,Independent Pictures (II),executive,21-30,firstcomer,0,0,0
+94,Circle Films,writer,<=20,repeat,0,1,0
+95,Bavaria Film,homemaker,51-60,repeat,0,0,0
+96,Too Askew Prod. Inc.,retired,31-40,repeat,0,0,0
+97,Capella International,writer,<=20,firstcomer,0,0,0
+98,Golar Productions,librarian,51-60,firstcomer,0,0,1
+99,Alliance Atlantis Communications,writer,<=20,firstcomer,0,0,0
+100,Fawcett-Majors Productions,other,21-30,firstcomer,0,0,0
+101,Be Gentlemen Limited Partnership,student,<=20,firstcomer,0,0,0
+102,Andy Warhol Factory,salesman,31-40,firstcomer,0,0,1
+103,Lumiere Pictures,technician,21-30,repeat,0,0,0
+104,Avenue Pictures,artist,41-50,firstcomer,1,1,0
+105,BET Pictures,retired,31-40,firstcomer,0,0,0
+106,Channel Four Films,writer,41-50,repeat,0,0,0
+107,Scott Rudin Productions,lawyer,<=20,repeat,0,0,0
+108,Calendar International Pictures Inc.,programmer,21-30,firstcomer,0,0,0
+109,Mandalay Entertainment,educator,21-30,repeat,0,0,0
+110,Clinica Estetico,entertainment,51-60,firstcomer,0,0,0
+111,Permut Presentations,engineer,41-50,firstcomer,0,0,0
+112,United Artists,lawyer,31-40,firstcomer,0,0,0
+113,Icon Entertainment International,writer,31-40,repeat,0,0,0
+114,MDP Worldwide,student,41-50,firstcomer,0,0,0
+115,Tobis Filmkunst,executive,41-50,repeat,0,0,0
+116,Phoenix Pictures,programmer,21-30,firstcomer,0,0,0
+117,Hell's Kitchen Films,retired,<=20,repeat,0,0,0
+118,Alliance Communications Corporation,librarian,41-50,repeat,0,0,0
+119,Caravan Pictures,salesman,21-30,firstcomer,0,0,0
+120,Def Pictures,administrator,31-40,repeat,0,0,1
+121,Beacon Communications,healthcare,51-60,repeat,0,0,0
+122,Polygram Filmed Entertainment,student,<=20,firstcomer,0,0,0
+123,ASQA Film Partnership,technician,41-50,firstcomer,0,0,0
+124,British Broadcasting Corporation (BBC) Television,writer,51-60,repeat,0,0,0
+125,Turner Pictures (I),administrator,41-50,firstcomer,0,0,0
+126,Calimari Productions,educator,31-40,firstcomer,0,0,0
+127,Fantasy Films,salesman,21-30,repeat,0,1,0
+128,McFarlane Films,administrator,31-40,firstcomer,0,0,0
+129,Lodestar Productions,lawyer,41-50,repeat,1,0,0
+130,Fox Film Corporation,healthcare,31-40,repeat,0,0,0
+131,NFH Productions,retired,31-40,repeat,0,0,0
+132,The Booking Office,healthcare,31-40,firstcomer,0,0,0
+133,Edward L. Alperson Productions,homemaker,41-50,repeat,0,0,0
+134,Incorporated Television Company (ITC),executive,41-50,repeat,0,1,0
+135,Brooksfilms,librarian,21-30,repeat,0,0,0
+136,Savoy Pictures,marketing,41-50,firstcomer,0,0,0
+137,Allied Filmmakers,engineer,41-50,repeat,0,0,0
+138,Europa Film,writer,51-60,firstcomer,0,0,0
+139,Famous Players Film Company,student,51-60,repeat,0,1,0
+140,Nonpareil Feature Film Corp.,healthcare,21-30,firstcomer,0,0,0
+141,Universal International Pictures (UI),salesman,<=20,repeat,0,0,0
+142,Mildred Lewis and Colin Higgins Productions,engineer,41-50,repeat,0,0,0
+143,Thorn EMI Screen Entertainment,technician,21-30,firstcomer,0,0,0
+144,New World Pictures,entertainment,<=20,firstcomer,0,0,0
+145,Campanile Productions,engineer,51-60,firstcomer,0,0,0
+146,Produzioni Europee Associate (PEA),retired,41-50,repeat,0,0,0
+147,Out of Carolina Productions,lawyer,<=20,firstcomer,0,0,0
+148,3 Arts Entertainment,educator,41-50,repeat,0,1,0
+149,Cinergi Pictures Entertainment,artist,<=20,firstcomer,0,1,0
+150,London Film Productions,artist,21-30,firstcomer,0,0,0
+151,Propaganda Films,entertainment,21-30,repeat,0,0,0
+152,Fine Line Features,executive,41-50,repeat,0,1,0
+153,Davis Entertainment,executive,31-40,firstcomer,0,0,0
+154,American International Pictures (AIP),programmer,51-60,repeat,0,0,0
+155,Alfred J. Hitchcock Productions,engineer,<=20,repeat,0,0,0
+156,Michael Todd Company,educator,21-30,repeat,0,0,0
+157,Liberty Films (II),student,51-60,firstcomer,0,0,0
+158,Avon Productions (II),technician,51-60,repeat,0,0,0
+159,Warner Brothers/Seven Arts,other,21-30,repeat,0,0,0
+160,Horizon Pictures (II),entertainment,21-30,repeat,0,1,0
+161,Enigma Productions,writer,<=20,firstcomer,0,0,0
+162,Black Snake,homemaker,31-40,firstcomer,0,0,0
+163,Jalem Productions,executive,<=20,repeat,1,1,0
+164,International Film Investors,doctor,21-30,firstcomer,0,0,0
+165,Australian Film Finance Corporation (AFFC),retired,21-30,firstcomer,0,0,0
+166,NDF International,lawyer,21-30,firstcomer,1,0,0
+167,Banner Entertainment,doctor,21-30,repeat,0,0,0
+168,Les Films Alain Sarde,educator,<=20,firstcomer,0,0,0
+169,Eddie Murphy Productions,doctor,31-40,firstcomer,0,0,0
+170,Seraphim Films,lawyer,41-50,firstcomer,0,0,0
+171,A Band Apart,marketing,21-30,firstcomer,0,0,0
+172,The Zanuck Company,salesman,51-60,repeat,0,0,0
+173,WingNut Films,other,21-30,firstcomer,0,0,0
+174,40 Acres & A Mule Filmworks,retired,31-40,repeat,0,0,0
+175,Metro-Goldwyn-Mayer British Studios,educator,41-50,firstcomer,0,1,0
+176,Mace Neufeld Productions,lawyer,41-50,repeat,0,0,0
+177,Dorset Productions,lawyer,<=20,firstcomer,0,0,0
+178,Mainline Pictures,doctor,31-40,repeat,0,1,0
+179,Moviestore Entertainment,healthcare,<=20,repeat,0,1,0
+180,Robert E. Kent Productions,healthcare,41-50,repeat,0,0,0
+181,B.A. Produktion,homemaker,<=20,firstcomer,0,0,0
+182,Available Light Productions,lawyer,31-40,firstcomer,0,0,0
+183,Kopelson Entertainment,lawyer,31-40,firstcomer,0,0,0
+184,Codo Cinéma,lawyer,41-50,firstcomer,0,0,0
+185,George Stevens Productions,engineer,51-60,firstcomer,1,0,1
+186,Image Ten,student,21-30,firstcomer,0,0,0
+187,The Play's The Thing Productions Inc.,salesman,51-60,repeat,0,0,0
+188,Astoria Films,librarian,41-50,repeat,0,0,0
+189,Embassy Pictures,doctor,21-30,repeat,0,0,0
+190,Bryna Productions,executive,31-40,repeat,0,0,0
+191,Deutsche Film (DEFA),none,51-60,firstcomer,0,0,0
+192,Rafran Cinematografica,executive,<=20,firstcomer,0,0,0
+193,Greenwich Film Productions,technician,21-30,firstcomer,0,0,0
+194,David Butler Productions,engineer,<=20,firstcomer,0,0,0
+195,Superior Pictures,lawyer,<=20,firstcomer,0,0,0
+196,Rastar Pictures,programmer,<=20,firstcomer,0,1,1
+197,BSB,salesman,21-30,firstcomer,0,0,0
+198,Road Movies Filmproduktion,student,31-40,firstcomer,0,0,1
+199,Sterobcar Productions,writer,31-40,repeat,0,0,1
+200,Compass International Pictures,salesman,41-50,repeat,0,0,0
+201,Candyman Films,educator,<=20,firstcomer,0,0,1
+202,Image Organization,salesman,21-30,repeat,0,0,1
+203,Robert Simonds Productions,librarian,31-40,firstcomer,0,1,0
+204,Hal Wallis Productions,entertainment,21-30,firstcomer,0,1,0
+205,Trimark Pictures,healthcare,<=20,firstcomer,0,0,0
+206,Cantaloupe Production,scientist,21-30,firstcomer,1,0,1
+207,Barcelona Films,student,51-60,firstcomer,0,0,0
+208,British Screen Productions,salesman,41-50,repeat,0,0,0
+209,Outlaw Productions (I),librarian,51-60,repeat,1,0,1
+210,Beyond Films,engineer,51-60,firstcomer,0,0,0
+211,A&M Films,doctor,51-60,repeat,0,0,0
+212,Bandai Films,entertainment,41-50,firstcomer,0,0,0
+213,Wörner-Filmgesellschaft,scientist,21-30,firstcomer,0,0,0
+214,Arrowhead Productions,lawyer,21-30,repeat,0,0,0
+215,Dog Eat Dog Films,student,51-60,repeat,0,0,0
+216,Gramercy Pictures (I),healthcare,<=20,repeat,0,0,0
+217,Price Entertainment,administrator,<=20,firstcomer,0,0,0
+218,Egg Pictures,librarian,51-60,repeat,0,0,0
+219,Can I Watch,administrator,21-30,repeat,0,0,0
+220,British Screen Finance Ltd.,entertainment,41-50,repeat,0,0,0
+221,Motion Picture Corporation of America (MPCA),scientist,21-30,repeat,0,0,0
+222,Monogram Pictures,administrator,31-40,repeat,0,0,0
+223,Lion International,marketing,41-50,repeat,0,0,0
+224,Delphi III Productions,healthcare,51-60,repeat,1,0,0
+225,DreamWorks,other,<=20,repeat,0,1,0
+226,Sandollar Productions,student,<=20,repeat,0,1,0
+227,Sony New Technologies,homemaker,41-50,firstcomer,0,1,0
+228,Southern Films International,artist,<=20,firstcomer,0,0,0
+229,Triumph Films,engineer,<=20,repeat,0,0,0
+230,The Documentary Foundation,lawyer,<=20,firstcomer,0,0,0
+231,Guys Upstairs,engineer,31-40,firstcomer,0,0,0
+232,Avrora Media,healthcare,51-60,repeat,0,0,0
+233,Hawn / Sylbert Movie Company,salesman,31-40,repeat,1,0,0
+234,Metrodome Films,entertainment,31-40,firstcomer,0,0,0
+235,Dayjob Films,lawyer,<=20,firstcomer,0,0,0
+236,Allegro Films,artist,41-50,firstcomer,1,0,0
+237,Cineville,healthcare,21-30,firstcomer,0,0,0
+238,Broadway Pictures,marketing,41-50,repeat,0,0,0
+239,Forge,librarian,<=20,repeat,0,0,0
+240,Largo Entertainment,other,<=20,firstcomer,0,0,0
+241,Jaffilms,technician,51-60,repeat,0,0,0
+242,Fox 2000 Pictures,lawyer,31-40,firstcomer,0,0,0
+243,Fox Searchlight Pictures,marketing,41-50,firstcomer,0,0,0
+244,Warner Bros. Family Entertainment,librarian,31-40,repeat,0,0,0
+245,Bergman Lustig Productions,lawyer,51-60,firstcomer,0,0,0
+246,New Regency Pictures,doctor,51-60,repeat,0,1,0
+247,Cinetel Films,retired,41-50,firstcomer,0,0,0
+248,Halloween VI Productions,artist,31-40,firstcomer,0,0,0
+249,Frank Capra Productions,artist,21-30,firstcomer,0,0,1
+250,Lone Wolf,homemaker,31-40,firstcomer,0,0,0
+251,Mary Pickford Company,marketing,41-50,firstcomer,0,0,0
+252,Gower Street Pictures,writer,<=20,firstcomer,0,0,1
+253,Clavius Base,administrator,51-60,repeat,0,0,0
+254,Don Simpson/Jerry Bruckheimer Films,writer,21-30,firstcomer,0,0,0
+255,Les Films Galaxie,artist,51-60,repeat,0,0,0
+256,Victor Company of Japan (JVC),other,51-60,repeat,0,0,0
+257,Reteitalia,engineer,<=20,firstcomer,0,0,0
+258,1492 Pictures,entertainment,21-30,firstcomer,0,0,0
+259,Peters Entertainment,educator,31-40,repeat,0,0,1
+260,Universum Film (UFA),librarian,41-50,firstcomer,0,0,0
+261,Lumière International,executive,41-50,firstcomer,0,1,0
+262,Addis Wechsler Pictures,scientist,41-50,firstcomer,0,0,0
+263,Alchemy Filmworks,salesman,41-50,firstcomer,0,0,0
+264,Michael Edgley International,retired,21-30,repeat,0,0,0
+265,De Fina-Cappa,administrator,<=20,repeat,0,1,1
+266,Elysian Dreams,doctor,31-40,repeat,0,0,0
+267,Cinehaus,technician,51-60,repeat,0,0,0
+268,Arts Council of England,retired,<=20,firstcomer,0,0,0
+269,Award Entertainment,librarian,<=20,repeat,0,1,0
+270,Atlas Entertainment,engineer,<=20,repeat,0,0,0
+271,Pandora Filmproduktion,entertainment,51-60,repeat,1,0,0
+272,Nickelodeon Movies,doctor,21-30,repeat,0,0,0
+273,Samson Productions Pty. Ltd.,programmer,51-60,firstcomer,0,0,0
+274,Spring Creek Productions,librarian,41-50,repeat,0,1,0
+275,Davis-Films,student,41-50,repeat,0,0,0
+276,Portland Pictures,other,31-40,repeat,0,0,0
+277,Jethro Films Production,programmer,21-30,firstcomer,1,0,0
+278,Island Pictures,artist,<=20,repeat,0,0,0
+279,Thin Man Films,student,51-60,repeat,0,1,0
+280,Adventure Pictures,technician,21-30,repeat,0,0,0
+281,Full Crew/Say Yea,student,41-50,firstcomer,0,0,0
+282,A.M.A. Film,engineer,21-30,firstcomer,1,0,1
+283,Atchafalaya,salesman,<=20,firstcomer,0,0,0
+284,PVM Entertainment,engineer,31-40,repeat,0,0,0
+285,David Kirschner Productions,student,41-50,firstcomer,0,0,0
+286,Empire Pictures,healthcare,31-40,firstcomer,0,0,0
+287,Majestic Films International,librarian,21-30,repeat,0,0,0
+288,Cannon Italia Srl,technician,<=20,repeat,0,0,0
+289,Capitol Films,executive,51-60,firstcomer,0,0,1
+290,Lightning Ridge,programmer,51-60,firstcomer,0,0,0
+291,Fiction,administrator,41-50,repeat,0,0,0
+292,Eleventh Street Production,writer,31-40,firstcomer,1,0,1
+293,Penelope Productions Inc.,homemaker,41-50,repeat,0,0,0
+294,Cinema Line Film Corporation,scientist,31-40,firstcomer,0,0,0
+295,Good Dog Productions LLC,lawyer,41-50,firstcomer,0,0,0
+296,British National Films,homemaker,<=20,repeat,0,0,0
+297,Northern Lights Entertainment,technician,41-50,firstcomer,0,0,0
+298,Warwick Film Productions,doctor,21-30,firstcomer,0,0,0
+299,Lancaster Gate,other,21-30,firstcomer,0,0,0
+300,Pacific Western,executive,41-50,firstcomer,0,0,0
+301,Art-Film GmbH,healthcare,<=20,firstcomer,0,0,0
+302,Good Machine,librarian,31-40,repeat,0,0,0
+303,Gaumont,scientist,31-40,firstcomer,0,1,0
+304,Preston-Laing Productions,librarian,51-60,firstcomer,0,0,0
+305,CNCAIMC,scientist,31-40,firstcomer,1,0,0
+306,Amblimation,technician,21-30,firstcomer,0,0,0
+307,American Playhouse,programmer,51-60,firstcomer,0,0,1
+308,JDI Productions,engineer,51-60,repeat,1,0,0
+309,Victor Halperin Productions,executive,51-60,firstcomer,0,0,1
+310,Jersey Films,doctor,41-50,firstcomer,1,0,0
+311,Walt Disney Feature Animation,marketing,31-40,repeat,0,0,0
+312,Geffen Pictures,scientist,<=20,firstcomer,0,0,0
+313,Mindy Affrime,student,21-30,firstcomer,0,0,1
+314,Albino Alligator Productions,marketing,21-30,repeat,0,1,0
+315,Opala Productions,doctor,21-30,firstcomer,0,0,0
+316,FM Entertainment International N.V.,scientist,41-50,firstcomer,0,0,1
+317,Blue Tulip Productions,writer,<=20,firstcomer,0,0,0
+318,IRS Media,lawyer,31-40,firstcomer,0,0,0
+319,Genre Pictures,homemaker,<=20,firstcomer,0,0,0
+320,Fernando Trueba Producciones Cinematográficas,homemaker,51-60,repeat,0,0,0
+321,Les Artistes Anonymes,healthcare,31-40,repeat,0,0,0
+322,Somerset Film Productions,engineer,21-30,firstcomer,0,0,0
+323,Trilogy Entertainment Group,retired,31-40,repeat,0,0,0
+324,British Columbia Film Commission,educator,21-30,repeat,0,0,0
+325,Shakespeare's Globe,engineer,31-40,firstcomer,0,0,0
+326,Merchant Ivory Productions,lawyer,21-30,firstcomer,0,0,0
+327,Allied Artists Pictures,doctor,41-50,firstcomer,0,0,0
+328,GreeneStreet Films,student,21-30,repeat,0,0,0
+329,American Playhouse Theatrical Films,engineer,51-60,firstcomer,1,0,0
+330,Max L. Raab Productions,marketing,41-50,firstcomer,0,0,0
+331,Rocky Point Productions,none,<=20,firstcomer,0,0,0
+332,Po' Boy Productions,lawyer,31-40,firstcomer,0,0,0
+333,Jerry Wald Productions,entertainment,31-40,repeat,1,0,0
+334,Mosfilm,technician,41-50,firstcomer,0,0,0
+335,Krost/Chapin Productions,student,51-60,firstcomer,1,0,0
+336,Connection III Entertainment,writer,21-30,firstcomer,0,0,0
+337,Atlantis Films,executive,<=20,firstcomer,0,0,0
+338,Lumière Pictures,administrator,51-60,repeat,0,0,0
+339,Buckeye Films,educator,51-60,repeat,0,0,1
+340,Window III Productions,student,31-40,firstcomer,0,0,0
+341,Enterprise Productions,lawyer,21-30,repeat,1,0,0
+342,BMG Independents,doctor,<=20,firstcomer,1,0,0
+343,Joe Wizan/Todd Black,other,31-40,repeat,0,1,0
+344,All Girl Productions,executive,21-30,repeat,0,0,1
+345,Cornell Pictures,executive,<=20,firstcomer,0,0,0
+346,Communicado Productions,student,31-40,repeat,0,0,0
+347,Loew's,writer,31-40,repeat,0,0,1
+348,Romaine Film Corporation,homemaker,51-60,firstcomer,0,0,1
+349,Orion Pictures,other,<=20,firstcomer,0,0,0
+350,Boneyard Film Company Inc.,scientist,<=20,firstcomer,0,0,0
+351,Wildwood Enterprises,salesman,21-30,firstcomer,0,0,0
+352,Victor & Grais,retired,31-40,repeat,0,0,0
+353,101st Street Films,lawyer,<=20,repeat,0,0,0
+354,Golden Eye Films,other,<=20,repeat,0,0,0
+355,Hemdale Film Distribution,other,<=20,firstcomer,0,0,0
+356,Beckner/Gorman Productions,lawyer,31-40,repeat,1,0,0
+357,The Movie Group,artist,41-50,firstcomer,0,1,0
+358,Village Roadshow Pictures,artist,<=20,repeat,0,0,0
+359,Larger Than Life Productions,administrator,31-40,repeat,0,0,1
+360,FIT Productions,technician,41-50,repeat,0,0,0
+361,Flan de Coco Films,educator,41-50,repeat,0,0,0
+362,Billy Wilder Productions,homemaker,31-40,repeat,0,0,0
+363,Q Productions,retired,21-30,repeat,0,0,1
+364,Pope Productions,retired,41-50,repeat,0,0,0
+365,Ardican Films,writer,51-60,repeat,0,0,0
+366,Longview Entertainment,executive,21-30,firstcomer,0,0,0
+367,Dark Matter Productions,writer,31-40,repeat,0,0,0
+368,JLT Productions,executive,21-30,firstcomer,0,0,0
+369,Lakeshore Entertainment,executive,51-60,repeat,0,0,0
+370,One Mind Productions,writer,31-40,firstcomer,0,0,0
+371,Jagtoria Films,entertainment,21-30,repeat,0,0,0
+372,Arrow,other,41-50,repeat,0,0,0
+373,Arpa Productions,doctor,51-60,repeat,0,0,0
+374,British Film Institute (BFI),educator,21-30,firstcomer,0,0,0
+375,Independent Productions,technician,41-50,repeat,0,0,0
+376,Aleph Producciones S.A.,librarian,41-50,firstcomer,0,0,0
+377,Cabin Fever Entertainment,administrator,<=20,firstcomer,0,0,0
+378,Interscope Communications,administrator,51-60,firstcomer,0,0,0
+379,United Artists Pictures,scientist,21-30,repeat,0,0,0
+380,Bambú Cinema e TV,technician,51-60,firstcomer,0,0,0
+381,Pendefig Ty Cefn,librarian,31-40,repeat,0,0,0
+382,Gevest Australia Productions,scientist,31-40,repeat,0,0,0
+383,Sorpasso Film,homemaker,<=20,repeat,0,0,0
+384,Legacy,entertainment,41-50,firstcomer,0,0,1
+385,The Rainbow Film Company,retired,21-30,firstcomer,0,0,1
+386,First Look International,lawyer,31-40,repeat,0,0,0
+387,Bluehawk Films,technician,31-40,repeat,0,0,0
+388,John Aaron Features II Inc.,executive,21-30,firstcomer,0,0,0
+389,Canned Pictures Inc.,librarian,21-30,firstcomer,0,1,0
+390,Arauco Films,marketing,<=20,repeat,0,0,0
+391,Athanor,lawyer,<=20,repeat,0,0,0
+392,Ima Films,salesman,31-40,repeat,1,0,0
+393,Cined Productions,other,51-60,firstcomer,0,0,1
+394,O.T.A. Productions,executive,31-40,firstcomer,0,1,0
+395,Pratt Films,student,31-40,firstcomer,0,0,0
+396,Danan/Moreno Films,student,51-60,repeat,0,0,0
+397,Kaijyu Theater,programmer,21-30,repeat,1,0,0
+398,Five Minutes Before the Miracle,healthcare,<=20,firstcomer,0,0,0
+399,MK2 Productions,doctor,21-30,repeat,0,0,1
+400,K.G. Productions,marketing,<=20,firstcomer,0,0,0
+401,Avventura Films,programmer,51-60,repeat,0,0,0
+402,Lions Gate Films,programmer,31-40,firstcomer,0,0,1
+403,Carlo Ponti Cinematografica,doctor,31-40,repeat,0,0,0
+404,American Broadcasting Company (ABC),administrator,31-40,firstcomer,0,0,0
+405,Cecile Films,lawyer,31-40,repeat,0,1,0
+406,RAS,homemaker,<=20,repeat,0,0,0
+407,Marianne Productions,healthcare,41-50,firstcomer,0,0,0
+408,Capcom Entertainment,other,31-40,firstcomer,0,0,1
+409,Matthugh Productions,healthcare,41-50,firstcomer,0,0,0
+410,Fallingcloud,other,<=20,repeat,0,0,0
+411,Kino Korsakoff,lawyer,31-40,firstcomer,0,0,0
+412,Cappa Production,lawyer,51-60,repeat,1,0,0
+413,Intermedia Films,programmer,<=20,repeat,0,0,0
+414,Producers Network Associates,writer,51-60,firstcomer,0,0,0
+415,Gruber Bros,executive,41-50,firstcomer,0,0,0
+416,Rastar Productions,marketing,31-40,repeat,0,0,0
+417,"Jackson/McHenry Company,The",educator,41-50,repeat,0,0,0
+418,Beambright,programmer,21-30,repeat,0,0,0
+419,Government of West Bengal,scientist,41-50,repeat,0,0,0
+420,Walter Wanger Productions,administrator,51-60,repeat,0,0,0
+421,Hunt Stromberg Productions,administrator,<=20,firstcomer,0,0,0
+422,Charles R. Rogers Productions,retired,41-50,repeat,0,0,1
+423,John Wayne Productions,artist,21-30,repeat,0,1,0
+424,Romulus Films,artist,41-50,repeat,0,0,0
+425,Cinema 7,educator,51-60,repeat,1,0,0
+426,Alan Jacobs Productions,other,41-50,repeat,0,1,0
+427,Overseas FilmGroup,artist,41-50,repeat,0,0,0
+428,Hunnia Filmstúdió,student,51-60,repeat,0,0,0
+429,Lili Productions,homemaker,41-50,repeat,0,0,1
+430,Neue Deutsche Filmgesellschaft (NDF),librarian,41-50,repeat,0,0,0
+431,Hit Entertainment,doctor,41-50,repeat,0,0,0
+432,Some Film,retired,51-60,firstcomer,0,0,0
+433,Breakheart Films,retired,41-50,firstcomer,0,0,0
+434,Cecchi Gori Group Tiger Cinematografica,homemaker,41-50,repeat,0,0,0
+435,Bruin Grip Services,artist,41-50,firstcomer,0,0,0
+436,Australian Asset Securities Limited,doctor,31-40,firstcomer,0,0,0
+437,Iwerks Entertainment,artist,31-40,repeat,0,0,0
+438,Night Life Inc.,technician,21-30,repeat,0,0,0
+439,Arte France,other,51-60,firstcomer,0,0,1
+440,Blurco,technician,21-30,firstcomer,0,0,1
+441,British Instructional Films (BIF),writer,31-40,repeat,0,1,0
+442,Carthago Films S.a.r.l.,entertainment,21-30,firstcomer,0,1,0
+443,Agenda,writer,<=20,firstcomer,0,0,0
+444,Baldini Pictures,retired,21-30,repeat,0,0,0
+445,Bandeira Entertainment,doctor,41-50,firstcomer,0,0,0
+446,Bórd Scannán na hÉireann,educator,21-30,repeat,0,0,0
+447,Marianna Films,other,31-40,firstcomer,1,0,1
+448,Distant Horizon,educator,<=20,repeat,1,0,0
+449,Angel Digital Private Limited,technician,31-40,repeat,0,0,1
+450,Libra Pictures,marketing,31-40,repeat,1,0,0
+451,Dérives Productions,educator,21-30,firstcomer,0,0,0
+452,The Canada Council,salesman,31-40,repeat,0,0,0
+453,Cicada Films,librarian,51-60,repeat,0,0,0
+454,Modigil,technician,41-50,repeat,0,0,0
+455,Elite-Tonfilm-Produktion GmbH,artist,41-50,firstcomer,0,0,0
+456,Seltzer Films,entertainment,41-50,repeat,0,0,0
+457,Artémis Productions,writer,21-30,repeat,0,0,0
+458,.406 Production,none,31-40,repeat,0,0,1
+459,Working Title Films,doctor,51-60,repeat,0,0,0
+460,Film Victoria,administrator,31-40,firstcomer,0,0,0
+461,Alta Films,educator,51-60,repeat,1,1,0
+462,Good Fear Films,healthcare,51-60,firstcomer,0,0,0
+463,Braun Entertainment Group,marketing,21-30,repeat,0,0,0
+464,Bryan Foy Productions,technician,41-50,firstcomer,0,0,0
+465,Jim Henson Pictures,doctor,31-40,repeat,0,0,0
+466,Higgins-Messick-Wayne,homemaker,<=20,repeat,0,0,0
+467,China Film Co-Production Corporation,entertainment,41-50,firstcomer,0,0,0
+468,Achilles Films,doctor,41-50,firstcomer,1,1,0
+469,Alia Film,entertainment,51-60,repeat,1,1,0
+470,BBC Films,doctor,41-50,firstcomer,0,0,0
+471,Albert Zugsmith Productions,executive,21-30,repeat,1,0,0
+472,Big Ol' Productions,entertainment,<=20,repeat,0,0,0
+473,Madera Productions,lawyer,41-50,firstcomer,0,0,0
+474,Phaedra Cinema,educator,21-30,firstcomer,0,0,0
+475,Bandai Visual Company,programmer,<=20,firstcomer,0,0,0
+476,Shooting Gallery,artist,51-60,repeat,0,0,0
+477,Paulist Pictures,technician,<=20,firstcomer,0,1,0
+478,CBS Entertainment Production,administrator,<=20,firstcomer,0,0,0
+479,Billy MacKinnon,student,51-60,repeat,0,0,0
+480,Union Générale Cinématographique (UGC),educator,41-50,repeat,0,0,0
+481,Famous Players,lawyer,31-40,repeat,0,0,0
+482,C&P Productions,administrator,21-30,repeat,0,0,0
+483,'Am I Wrong?' Productions,homemaker,<=20,repeat,1,0,0
+484,El Deseo,writer,<=20,firstcomer,0,0,0
+485,Arco Film,homemaker,51-60,firstcomer,0,0,0
+486,Concrete Films,entertainment,41-50,repeat,0,0,0
